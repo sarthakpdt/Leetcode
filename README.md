@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/sarthakpdt/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sarthakpdt/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sarthakpdt/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sarthakpdt/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/sarthakpdt/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sarthakpdt/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sarthakpdt/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/sarthakpdt/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sarthakpdt/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/sarthakpdt/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/sarthakpdt/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/sarthakpdt/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/sarthakpdt/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3834-merge-adjacent-equal-elements](https://github.com/sarthakpdt/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sarthakpdt/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Binary Tree
 |  |
@@ -310,4 +315,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sarthakpdt/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
