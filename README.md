@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthakpdt/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sarthakpdt/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sarthakpdt/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2000-reverse-prefix-of-word](https://github.com/sarthakpdt/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/sarthakpdt/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/sarthakpdt/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/sarthakpdt/Leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sarthakpdt/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/sarthakpdt/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2000-reverse-prefix-of-word](https://github.com/sarthakpdt/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sarthakpdt/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2211-count-collisions-on-a-road](https://github.com/sarthakpdt/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sarthakpdt/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/sarthakpdt/Leetcode/tree/master/0148-sort-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarthakpdt/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/sarthakpdt/Leetcode/tree/master/1861-rotating-the-box) |
+| [2000-reverse-prefix-of-word](https://github.com/sarthakpdt/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sarthakpdt/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
