@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sarthakpdt/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sarthakpdt/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sarthakpdt/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sarthakpdt/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sarthakpdt/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sarthakpdt/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sarthakpdt/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sarthakpdt/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sarthakpdt/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sarthakpdt/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sarthakpdt/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sarthakpdt/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1306-jump-game-iii](https://github.com/sarthakpdt/Leetcode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/sarthakpdt/Leetcode/tree/master/1345-jump-game-iv) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sarthakpdt/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -356,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sarthakpdt/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
