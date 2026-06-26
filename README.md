@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sarthakpdt/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sarthakpdt/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/sarthakpdt/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sarthakpdt/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3474-lexicographically-smallest-generated-string](https://github.com/sarthakpdt/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/sarthakpdt/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/sarthakpdt/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3838-weighted-word-mapping](https://github.com/sarthakpdt/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sarthakpdt/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/sarthakpdt/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/sarthakpdt/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Design
 |  |
 | ------- |
@@ -575,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sarthakpdt/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/sarthakpdt/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sarthakpdt/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/sarthakpdt/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Geometry
 |  |
 | ------- |
