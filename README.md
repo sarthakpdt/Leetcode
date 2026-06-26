@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/sarthakpdt/Leetcode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sarthakpdt/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2751-robot-collisions](https://github.com/sarthakpdt/Leetcode/tree/master/2751-robot-collisions) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sarthakpdt/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sarthakpdt/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/sarthakpdt/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sarthakpdt/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/sarthakpdt/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/sarthakpdt/Leetcode/tree/master/1840-maximum-building-height) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sarthakpdt/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sarthakpdt/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sarthakpdt/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sarthakpdt/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sarthakpdt/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/sarthakpdt/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/sarthakpdt/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2751-robot-collisions](https://github.com/sarthakpdt/Leetcode/tree/master/2751-robot-collisions) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sarthakpdt/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/sarthakpdt/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sarthakpdt/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/sarthakpdt/Leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sarthakpdt/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3225-maximum-score-from-grid-operations](https://github.com/sarthakpdt/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sarthakpdt/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
