@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarthakpdt/Leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/sarthakpdt/Leetcode/tree/master/0027-remove-element) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarthakpdt/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sarthakpdt/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1840-maximum-building-height](https://github.com/sarthakpdt/Leetcode/tree/master/1840-maximum-building-height) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/sarthakpdt/Leetcode/tree/master/0027-remove-element) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sarthakpdt/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
