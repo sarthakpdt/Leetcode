@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/sarthakpdt/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarthakpdt/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/sarthakpdt/Leetcode/tree/master/1861-rotating-the-box) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sarthakpdt/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sarthakpdt/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sarthakpdt/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1871-jump-game-vii](https://github.com/sarthakpdt/Leetcode/tree/master/1871-jump-game-vii) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2574-left-and-right-sum-differences](https://github.com/sarthakpdt/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/sarthakpdt/Leetcode/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/2906-construct-product-matrix) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0970-powerful-integers](https://github.com/sarthakpdt/Leetcode/tree/master/0970-powerful-integers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sarthakpdt/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/sarthakpdt/Leetcode/tree/master/1840-maximum-building-height) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sarthakpdt/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sarthakpdt/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sarthakpdt/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/sarthakpdt/Leetcode/tree/master/1340-jump-game-v) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarthakpdt/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1840-maximum-building-height](https://github.com/sarthakpdt/Leetcode/tree/master/1840-maximum-building-height) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sarthakpdt/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/sarthakpdt/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sarthakpdt/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -412,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sarthakpdt/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Binary Tree
@@ -500,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarthakpdt/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1861-rotating-the-box](https://github.com/sarthakpdt/Leetcode/tree/master/1861-rotating-the-box) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sarthakpdt/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sarthakpdt/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
