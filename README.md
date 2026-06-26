@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/0002-add-two-numbers) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthakpdt/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
