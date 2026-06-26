@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sarthakpdt/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/sarthakpdt/Leetcode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarthakpdt/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0396-rotate-function](https://github.com/sarthakpdt/Leetcode/tree/master/0396-rotate-function) |
 | [0706-design-hashmap](https://github.com/sarthakpdt/Leetcode/tree/master/0706-design-hashmap) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sarthakpdt/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1306-jump-game-iii](https://github.com/sarthakpdt/Leetcode/tree/master/1306-jump-game-iii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sarthakpdt/Leetcode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarthakpdt/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/sarthakpdt/Leetcode/tree/master/0224-basic-calculator) |
+| [0396-rotate-function](https://github.com/sarthakpdt/Leetcode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/sarthakpdt/Leetcode/tree/master/0788-rotated-digits) |
 | [0970-powerful-integers](https://github.com/sarthakpdt/Leetcode/tree/master/0970-powerful-integers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sarthakpdt/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sarthakpdt/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0396-rotate-function](https://github.com/sarthakpdt/Leetcode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/sarthakpdt/Leetcode/tree/master/0788-rotated-digits) |
 | [1340-jump-game-v](https://github.com/sarthakpdt/Leetcode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/sarthakpdt/Leetcode/tree/master/1871-jump-game-vii) |
