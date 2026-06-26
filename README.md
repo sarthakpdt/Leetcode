@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/0180-consecutive-numbers) |
+| [0610-triangle-judgement](https://github.com/sarthakpdt/Leetcode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/sarthakpdt/Leetcode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/sarthakpdt/Leetcode/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/sarthakpdt/Leetcode/tree/master/0627-swap-sex-of-employees) |
