@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/sarthakpdt/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/sarthakpdt/Leetcode/tree/master/0402-remove-k-digits) |
 | [0649-dota2-senate](https://github.com/sarthakpdt/Leetcode/tree/master/0649-dota2-senate) |
+| [0657-robot-return-to-origin](https://github.com/sarthakpdt/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/sarthakpdt/Leetcode/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/sarthakpdt/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthakpdt/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/sarthakpdt/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/sarthakpdt/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/sarthakpdt/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
