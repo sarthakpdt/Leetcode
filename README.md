@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sarthakpdt/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sarthakpdt/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sarthakpdt/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sarthakpdt/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/sarthakpdt/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1871-jump-game-vii](https://github.com/sarthakpdt/Leetcode/tree/master/1871-jump-game-vii) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/sarthakpdt/Leetcode/tree/master/0649-dota2-senate) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthakpdt/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sarthakpdt/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarthakpdt/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sarthakpdt/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/sarthakpdt/Leetcode/tree/master/2126-destroying-asteroids) |
