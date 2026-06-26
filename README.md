@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sarthakpdt/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0543-diameter-of-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/sarthakpdt/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0897-increasing-order-search-tree) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sarthakpdt/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0543-diameter-of-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/sarthakpdt/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0897-increasing-order-search-tree) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sarthakpdt/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0543-diameter-of-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
