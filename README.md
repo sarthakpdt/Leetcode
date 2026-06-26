@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/sarthakpdt/Leetcode/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/sarthakpdt/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthakpdt/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sarthakpdt/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sarthakpdt/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1871-jump-game-vii](https://github.com/sarthakpdt/Leetcode/tree/master/1871-jump-game-vii) |
 | [2211-count-collisions-on-a-road](https://github.com/sarthakpdt/Leetcode/tree/master/2211-count-collisions-on-a-road) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sarthakpdt/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0396-rotate-function](https://github.com/sarthakpdt/Leetcode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/sarthakpdt/Leetcode/tree/master/0788-rotated-digits) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sarthakpdt/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/sarthakpdt/Leetcode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/sarthakpdt/Leetcode/tree/master/1871-jump-game-vii) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/sarthakpdt/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
