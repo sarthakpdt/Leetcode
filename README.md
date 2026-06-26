@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/sarthakpdt/Leetcode/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sarthakpdt/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/sarthakpdt/Leetcode/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/sarthakpdt/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0970-powerful-integers](https://github.com/sarthakpdt/Leetcode/tree/master/0970-powerful-integers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sarthakpdt/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sarthakpdt/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/sarthakpdt/Leetcode/tree/master/0836-rectangle-overlap) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sarthakpdt/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Backtracking
 |  |
