@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sarthakpdt/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sarthakpdt/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/sarthakpdt/Leetcode/tree/master/0048-rotate-image) |
+| [0088-merge-sorted-array](https://github.com/sarthakpdt/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarthakpdt/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/sarthakpdt/Leetcode/tree/master/0169-majority-element) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sarthakpdt/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/sarthakpdt/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sarthakpdt/Leetcode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/sarthakpdt/Leetcode/tree/master/0389-find-the-difference) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sarthakpdt/Leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/sarthakpdt/Leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/sarthakpdt/Leetcode/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/sarthakpdt/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sarthakpdt/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/sarthakpdt/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sarthakpdt/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
