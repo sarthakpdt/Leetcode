@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sarthakpdt/Leetcode/tree/master/0001-two-sum) |
 | [1840-maximum-building-height](https://github.com/sarthakpdt/Leetcode/tree/master/1840-maximum-building-height) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/sarthakpdt/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sarthakpdt/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/sarthakpdt/Leetcode/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthakpdt/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sarthakpdt/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3689-maximum-total-subarray-value-i](https://github.com/sarthakpdt/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Monotonic Stack
 |  |
