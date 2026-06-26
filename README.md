@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sarthakpdt/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/sarthakpdt/Leetcode/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/sarthakpdt/Leetcode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/sarthakpdt/Leetcode/tree/master/0394-decode-string) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sarthakpdt/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1340-jump-game-v](https://github.com/sarthakpdt/Leetcode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/sarthakpdt/Leetcode/tree/master/1871-jump-game-vii) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/sarthakpdt/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sarthakpdt/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/sarthakpdt/Leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/sarthakpdt/Leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/sarthakpdt/Leetcode/tree/master/0086-partition-list) |
