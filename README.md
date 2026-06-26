@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/sarthakpdt/Leetcode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/sarthakpdt/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/sarthakpdt/Leetcode/tree/master/0402-remove-k-digits) |
+| [0649-dota2-senate](https://github.com/sarthakpdt/Leetcode/tree/master/0649-dota2-senate) |
 | [0856-score-of-parentheses](https://github.com/sarthakpdt/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthakpdt/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sarthakpdt/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/sarthakpdt/Leetcode/tree/master/0402-remove-k-digits) |
+| [0649-dota2-senate](https://github.com/sarthakpdt/Leetcode/tree/master/0649-dota2-senate) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthakpdt/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sarthakpdt/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sarthakpdt/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/sarthakpdt/Leetcode/tree/master/0649-dota2-senate) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sarthakpdt/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Sliding Window
 |  |
