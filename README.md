@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/sarthakpdt/Leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/sarthakpdt/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/sarthakpdt/Leetcode/tree/master/1345-jump-game-iv) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sarthakpdt/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sarthakpdt/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sarthakpdt/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
 |  |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1340-jump-game-v](https://github.com/sarthakpdt/Leetcode/tree/master/1340-jump-game-v) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sarthakpdt/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarthakpdt/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1840-maximum-building-height](https://github.com/sarthakpdt/Leetcode/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/sarthakpdt/Leetcode/tree/master/1009-complement-of-base-10-integer) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sarthakpdt/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sarthakpdt/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sarthakpdt/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
