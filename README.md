@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sarthakpdt/Leetcode/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/sarthakpdt/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/sarthakpdt/Leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarthakpdt/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/sarthakpdt/Leetcode/tree/master/0169-majority-element) |
 | [0396-rotate-function](https://github.com/sarthakpdt/Leetcode/tree/master/0396-rotate-function) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sarthakpdt/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/sarthakpdt/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/sarthakpdt/Leetcode/tree/master/0389-find-the-difference) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sarthakpdt/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
