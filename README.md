@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sarthakpdt/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sarthakpdt/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/sarthakpdt/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sarthakpdt/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1480-running-sum-of-1d-array](https://github.com/sarthakpdt/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1871-jump-game-vii](https://github.com/sarthakpdt/Leetcode/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2574-left-and-right-sum-differences](https://github.com/sarthakpdt/Leetcode/tree/master/2574-left-and-right-sum-differences) |
