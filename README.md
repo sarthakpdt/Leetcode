@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sarthakpdt/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sarthakpdt/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/sarthakpdt/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/sarthakpdt/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/sarthakpdt/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sarthakpdt/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/sarthakpdt/Leetcode/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/sarthakpdt/Leetcode/tree/master/1009-complement-of-base-10-integer) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sarthakpdt/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sarthakpdt/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/sarthakpdt/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/sarthakpdt/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -577,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sarthakpdt/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sarthakpdt/Leetcode/tree/master/0035-search-insert-position) |
+| [0222-count-complete-tree-nodes](https://github.com/sarthakpdt/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sarthakpdt/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarthakpdt/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/sarthakpdt/Leetcode/tree/master/2540-minimum-common-value) |
