@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sarthakpdt/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/sarthakpdt/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sarthakpdt/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sarthakpdt/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sarthakpdt/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/sarthakpdt/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1306-jump-game-iii](https://github.com/sarthakpdt/Leetcode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sarthakpdt/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sarthakpdt/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Enumeration
 |  |
