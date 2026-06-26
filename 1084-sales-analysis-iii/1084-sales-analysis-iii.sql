@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select Product.product_id,Product.product_name from Product,Sales where Product.product_id=Sales.product_id group by Product.product_id,Product.product_name having MIN(Sales.sale_date)>='2019-01-01' and MAX(Sales.sale_date)<='2019-03-31'
