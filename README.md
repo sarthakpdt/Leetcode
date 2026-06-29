@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/sarthakpdt/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sarthakpdt/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sarthakpdt/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/sarthakpdt/Leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sarthakpdt/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/sarthakpdt/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sarthakpdt/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sarthakpdt/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/sarthakpdt/Leetcode/tree/master/2540-minimum-common-value) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/sarthakpdt/Leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sarthakpdt/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sarthakpdt/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sarthakpdt/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarthakpdt/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/sarthakpdt/Leetcode/tree/master/2540-minimum-common-value) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/sarthakpdt/Leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sarthakpdt/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sarthakpdt/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/sarthakpdt/Leetcode/tree/master/3488-closest-equal-element-queries) |
@@ -724,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0706-design-hashmap](https://github.com/sarthakpdt/Leetcode/tree/master/0706-design-hashmap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sarthakpdt/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/sarthakpdt/Leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -760,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/sarthakpdt/Leetcode/tree/master/0796-rotate-string) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/sarthakpdt/Leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sarthakpdt/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Union-Find
 |  |
@@ -792,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sarthakpdt/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/sarthakpdt/Leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Memoization
 |  |
 | ------- |
