@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/sarthakpdt/Leetcode/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sarthakpdt/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1367-linked-list-in-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/sarthakpdt/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1367-linked-list-in-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sarthakpdt/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sarthakpdt/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1306-jump-game-iii](https://github.com/sarthakpdt/Leetcode/tree/master/1306-jump-game-iii) |
+| [1367-linked-list-in-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sarthakpdt/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -637,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1367-linked-list-in-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sarthakpdt/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Enumeration
 |  |
