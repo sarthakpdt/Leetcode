@@ -6,22 +6,25 @@
  * };
  */
 struct ListNode* partition(struct ListNode* head, int x) {
-    struct ListNode* curr=head;
-    struct ListNode lessDummy, greaterDummy;
-    struct ListNode *po=&lessDummy;
-    struct ListNode *pi=&greaterDummy;
+    struct ListNode low;
+    struct ListNode high;
+    low.next=NULL;
+    high.next=NULL;
+    struct ListNode *lcurr=&low;
+    struct ListNode *hcurr=&high;
+    struct ListNode *curr=head;
     while(curr!=NULL){
         if (curr->val<x){
-            po->next=curr;
-            po=po->next;
+            lcurr->next=curr;
+            lcurr=lcurr->next;
         }
         else{
-            pi->next=curr;
-            pi=pi->next;
+            hcurr->next=curr;
+            hcurr=hcurr->next;
         }
         curr=curr->next;
     }
-    pi->next=NULL;
-    po->next=greaterDummy.next;
-    return lessDummy.next;
+    hcurr->next=NULL;
+    lcurr->next=high.next;
+    return low.next;
 }
