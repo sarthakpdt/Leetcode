@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/sarthakpdt/Leetcode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sarthakpdt/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2751-robot-collisions](https://github.com/sarthakpdt/Leetcode/tree/master/2751-robot-collisions) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/sarthakpdt/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sarthakpdt/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -812,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sarthakpdt/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/sarthakpdt/Leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sarthakpdt/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/sarthakpdt/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/sarthakpdt/Leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## Monotonic Queue
 |  |
