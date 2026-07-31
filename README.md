@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/sarthakpdt/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/sarthakpdt/Leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/sarthakpdt/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/sarthakpdt/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sarthakpdt/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/sarthakpdt/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sarthakpdt/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sarthakpdt/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/sarthakpdt/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sarthakpdt/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/sarthakpdt/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2540-minimum-common-value](https://github.com/sarthakpdt/Leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/sarthakpdt/Leetcode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sarthakpdt/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
