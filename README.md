@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sarthakpdt/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/sarthakpdt/Leetcode/tree/master/0048-rotate-image) |
+| [0078-subsets](https://github.com/sarthakpdt/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sarthakpdt/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sarthakpdt/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sarthakpdt/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/sarthakpdt/Leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -939,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sarthakpdt/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sarthakpdt/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/sarthakpdt/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/sarthakpdt/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sarthakpdt/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
