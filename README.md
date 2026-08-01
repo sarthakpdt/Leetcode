@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sarthakpdt/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0229-majority-element-ii) |
 | [0396-rotate-function](https://github.com/sarthakpdt/Leetcode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/sarthakpdt/Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/sarthakpdt/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/sarthakpdt/Leetcode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sarthakpdt/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sarthakpdt/Leetcode/tree/master/0258-add-digits) |
 | [0396-rotate-function](https://github.com/sarthakpdt/Leetcode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/sarthakpdt/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sarthakpdt/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sarthakpdt/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sarthakpdt/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/sarthakpdt/Leetcode/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/sarthakpdt/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sarthakpdt/Leetcode/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sarthakpdt/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthakpdt/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sarthakpdt/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0396-rotate-function](https://github.com/sarthakpdt/Leetcode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/sarthakpdt/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sarthakpdt/Leetcode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/sarthakpdt/Leetcode/tree/master/0788-rotated-digits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sarthakpdt/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -1034,4 +1038,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/sarthakpdt/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sarthakpdt/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
