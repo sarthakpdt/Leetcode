@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sarthakpdt/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sarthakpdt/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sarthakpdt/Leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/sarthakpdt/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sarthakpdt/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sarthakpdt/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarthakpdt/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sarthakpdt/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sarthakpdt/Leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/sarthakpdt/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sarthakpdt/Leetcode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/sarthakpdt/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/sarthakpdt/Leetcode/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/sarthakpdt/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/sarthakpdt/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sarthakpdt/Leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/sarthakpdt/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/sarthakpdt/Leetcode/tree/master/0682-baseball-game) |
@@ -771,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sarthakpdt/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/sarthakpdt/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sarthakpdt/Leetcode/tree/master/0136-single-number) |
