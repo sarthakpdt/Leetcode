@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sarthakpdt/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [3310-remove-methods-from-project](https://github.com/sarthakpdt/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sarthakpdt/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## String
@@ -943,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/sarthakpdt/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sarthakpdt/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/sarthakpdt/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Doubly-Linked List
@@ -1051,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/sarthakpdt/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sarthakpdt/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sarthakpdt/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/sarthakpdt/Leetcode/tree/master/3620-network-recovery-pathways) |
