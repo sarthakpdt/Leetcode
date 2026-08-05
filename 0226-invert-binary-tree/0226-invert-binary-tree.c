@@ -10,10 +10,8 @@ struct TreeNode* invertTree(struct TreeNode* root) {
     if (root==NULL){
         return 0;
     }
-    struct TreeNode *temp=root->left;
-    root->left=root->right;
-    root->right=temp;
-    invertTree(root->left);
-    invertTree(root->right);
+    struct TreeNode *temp=root->right;
+    root->right=invertTree(root->left);
+    root->left=invertTree(temp);
     return root;
 }
