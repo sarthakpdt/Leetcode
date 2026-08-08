@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sarthakpdt/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sarthakpdt/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1975-maximum-matrix-sum](https://github.com/sarthakpdt/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sarthakpdt/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/sarthakpdt/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sarthakpdt/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1754-largest-merge-of-two-strings](https://github.com/sarthakpdt/Leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [1833-maximum-ice-cream-bars](https://github.com/sarthakpdt/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sarthakpdt/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1975-maximum-matrix-sum](https://github.com/sarthakpdt/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sarthakpdt/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/sarthakpdt/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sarthakpdt/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -1017,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sarthakpdt/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
+| [1975-maximum-matrix-sum](https://github.com/sarthakpdt/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sarthakpdt/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/sarthakpdt/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
