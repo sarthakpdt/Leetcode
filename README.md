@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/sarthakpdt/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0923-3sum-with-multiplicity](https://github.com/sarthakpdt/Leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0970-powerful-integers](https://github.com/sarthakpdt/Leetcode/tree/master/0970-powerful-integers) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/sarthakpdt/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1331-rank-transform-of-an-array](https://github.com/sarthakpdt/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/sarthakpdt/Leetcode/tree/master/1345-jump-game-iv) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/sarthakpdt/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sarthakpdt/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthakpdt/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/sarthakpdt/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sarthakpdt/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sarthakpdt/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sarthakpdt/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -958,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/sarthakpdt/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/sarthakpdt/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sarthakpdt/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/sarthakpdt/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sarthakpdt/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/sarthakpdt/Leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sarthakpdt/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
