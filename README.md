@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sarthakpdt/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarthakpdt/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sarthakpdt/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/sarthakpdt/Leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1833-maximum-ice-cream-bars](https://github.com/sarthakpdt/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/sarthakpdt/Leetcode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sarthakpdt/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/sarthakpdt/Leetcode/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/sarthakpdt/Leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/sarthakpdt/Leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1840-maximum-building-height](https://github.com/sarthakpdt/Leetcode/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sarthakpdt/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sarthakpdt/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sarthakpdt/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/sarthakpdt/Leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/sarthakpdt/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sarthakpdt/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
