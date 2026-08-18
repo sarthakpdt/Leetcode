@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sarthakpdt/Leetcode/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/sarthakpdt/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0897-increasing-order-search-tree) |
+| [0901-online-stock-span](https://github.com/sarthakpdt/Leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sarthakpdt/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthakpdt/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sarthakpdt/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/sarthakpdt/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sarthakpdt/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0901-online-stock-span](https://github.com/sarthakpdt/Leetcode/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthakpdt/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sarthakpdt/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/sarthakpdt/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -1117,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sarthakpdt/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sarthakpdt/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0706-design-hashmap](https://github.com/sarthakpdt/Leetcode/tree/master/0706-design-hashmap) |
+| [0901-online-stock-span](https://github.com/sarthakpdt/Leetcode/tree/master/0901-online-stock-span) |
 | [1622-fancy-sequence](https://github.com/sarthakpdt/Leetcode/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/sarthakpdt/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2276-count-integers-in-intervals](https://github.com/sarthakpdt/Leetcode/tree/master/2276-count-integers-in-intervals) |
@@ -1303,4 +1306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sarthakpdt/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/sarthakpdt/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
