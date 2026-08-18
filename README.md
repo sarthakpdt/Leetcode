@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/sarthakpdt/Leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [1140-stone-game-ii](https://github.com/sarthakpdt/Leetcode/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sarthakpdt/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1207-unique-number-of-occurrences](https://github.com/sarthakpdt/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sarthakpdt/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sarthakpdt/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0970-powerful-integers](https://github.com/sarthakpdt/Leetcode/tree/master/0970-powerful-integers) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/sarthakpdt/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1207-unique-number-of-occurrences](https://github.com/sarthakpdt/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/sarthakpdt/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/sarthakpdt/Leetcode/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sarthakpdt/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
