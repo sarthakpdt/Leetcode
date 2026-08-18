@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sarthakpdt/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/sarthakpdt/Leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarthakpdt/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/sarthakpdt/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sarthakpdt/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sarthakpdt/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0229-majority-element-ii) |
@@ -951,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sarthakpdt/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sarthakpdt/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/sarthakpdt/Leetcode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/sarthakpdt/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sarthakpdt/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/sarthakpdt/Leetcode/tree/master/0875-koko-eating-bananas) |
