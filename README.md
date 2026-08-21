@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sarthakpdt/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sarthakpdt/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0385-mini-parser](https://github.com/sarthakpdt/Leetcode/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/sarthakpdt/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/sarthakpdt/Leetcode/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sarthakpdt/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/sarthakpdt/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0385-mini-parser](https://github.com/sarthakpdt/Leetcode/tree/master/0385-mini-parser) |
 | [0404-sum-of-left-leaves](https://github.com/sarthakpdt/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sarthakpdt/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sarthakpdt/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sarthakpdt/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/sarthakpdt/Leetcode/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/sarthakpdt/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0385-mini-parser](https://github.com/sarthakpdt/Leetcode/tree/master/0385-mini-parser) |
 | [0389-find-the-difference](https://github.com/sarthakpdt/Leetcode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/sarthakpdt/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/sarthakpdt/Leetcode/tree/master/0402-remove-k-digits) |
