@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sarthakpdt/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sarthakpdt/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sarthakpdt/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3316-find-maximum-removals-from-source-string](https://github.com/sarthakpdt/Leetcode/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sarthakpdt/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3379-transformed-array](https://github.com/sarthakpdt/Leetcode/tree/master/3379-transformed-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sarthakpdt/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sarthakpdt/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sarthakpdt/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3316-find-maximum-removals-from-source-string](https://github.com/sarthakpdt/Leetcode/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sarthakpdt/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/sarthakpdt/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3174-clear-digits](https://github.com/sarthakpdt/Leetcode/tree/master/3174-clear-digits) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sarthakpdt/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3316-find-maximum-removals-from-source-string](https://github.com/sarthakpdt/Leetcode/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sarthakpdt/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sarthakpdt/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -764,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/sarthakpdt/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sarthakpdt/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3316-find-maximum-removals-from-source-string](https://github.com/sarthakpdt/Leetcode/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sarthakpdt/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sarthakpdt/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -959,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/sarthakpdt/Leetcode/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/sarthakpdt/Leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sarthakpdt/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3316-find-maximum-removals-from-source-string](https://github.com/sarthakpdt/Leetcode/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sarthakpdt/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sarthakpdt/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
