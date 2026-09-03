@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3834-merge-adjacent-equal-elements](https://github.com/sarthakpdt/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3838-weighted-word-mapping](https://github.com/sarthakpdt/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sarthakpdt/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/sarthakpdt/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sarthakpdt/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sarthakpdt/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sarthakpdt/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
 |  |
 | ------- |
