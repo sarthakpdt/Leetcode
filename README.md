@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sarthakpdt/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sarthakpdt/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/sarthakpdt/Leetcode/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sarthakpdt/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sarthakpdt/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/sarthakpdt/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sarthakpdt/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/sarthakpdt/Leetcode/tree/master/1544-make-the-string-great) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sarthakpdt/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sarthakpdt/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1754-largest-merge-of-two-strings](https://github.com/sarthakpdt/Leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sarthakpdt/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -1484,4 +1486,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/sarthakpdt/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sarthakpdt/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
