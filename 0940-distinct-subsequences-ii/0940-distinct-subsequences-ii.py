@@ -1,0 +1,13 @@
+class Solution(object):
+    def distinctSubseqII(self, s):
+        mod=1000000007
+        dp=[0]*(len(s)+1)
+        dp[0]=1
+        last={}
+        for i in range(1,len(s)+1):
+            dp[i]=2*dp[i-1]
+            if s[i-1] in last:
+                dp[i]-=dp[last[s[i-1]]-1]
+            dp[i]%=mod
+            last[s[i-1]]=i
+        return (dp[len(s)]-1)%mod
