@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sarthakpdt/Leetcode/tree/master/0682-baseball-game) |
 | [0706-design-hashmap](https://github.com/sarthakpdt/Leetcode/tree/master/0706-design-hashmap) |
 | [0766-toeplitz-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/0766-toeplitz-matrix) |
+| [0817-linked-list-components](https://github.com/sarthakpdt/Leetcode/tree/master/0817-linked-list-components) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sarthakpdt/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0867-transpose-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/sarthakpdt/Leetcode/tree/master/0874-walking-robot-simulation) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sarthakpdt/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/sarthakpdt/Leetcode/tree/master/0575-distribute-candies) |
 | [0706-design-hashmap](https://github.com/sarthakpdt/Leetcode/tree/master/0706-design-hashmap) |
+| [0817-linked-list-components](https://github.com/sarthakpdt/Leetcode/tree/master/0817-linked-list-components) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/sarthakpdt/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0923-3sum-with-multiplicity](https://github.com/sarthakpdt/Leetcode/tree/master/0923-3sum-with-multiplicity) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0706-design-hashmap](https://github.com/sarthakpdt/Leetcode/tree/master/0706-design-hashmap) |
+| [0817-linked-list-components](https://github.com/sarthakpdt/Leetcode/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sarthakpdt/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
