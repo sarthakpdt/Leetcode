@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/sarthakpdt/Leetcode/tree/master/2751-robot-collisions) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/sarthakpdt/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/sarthakpdt/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2906-construct-product-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sarthakpdt/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sarthakpdt/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -1034,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/sarthakpdt/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/sarthakpdt/Leetcode/tree/master/2540-minimum-common-value) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/sarthakpdt/Leetcode/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/sarthakpdt/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/sarthakpdt/Leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sarthakpdt/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/sarthakpdt/Leetcode/tree/master/3316-find-maximum-removals-from-source-string) |
