@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/sarthakpdt/Leetcode/tree/master/2751-robot-collisions) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/sarthakpdt/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2865-beautiful-towers-i](https://github.com/sarthakpdt/Leetcode/tree/master/2865-beautiful-towers-i) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/sarthakpdt/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2906-construct-product-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sarthakpdt/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/sarthakpdt/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2751-robot-collisions](https://github.com/sarthakpdt/Leetcode/tree/master/2751-robot-collisions) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [2865-beautiful-towers-i](https://github.com/sarthakpdt/Leetcode/tree/master/2865-beautiful-towers-i) |
 | [3174-clear-digits](https://github.com/sarthakpdt/Leetcode/tree/master/3174-clear-digits) |
 | [3834-merge-adjacent-equal-elements](https://github.com/sarthakpdt/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Tree
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1673-find-the-most-competitive-subsequence](https://github.com/sarthakpdt/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/sarthakpdt/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+| [2865-beautiful-towers-i](https://github.com/sarthakpdt/Leetcode/tree/master/2865-beautiful-towers-i) |
 ## Dynamic Programming
 |  |
 | ------- |
