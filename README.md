@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/sarthakpdt/Leetcode/tree/master/0706-design-hashmap) |
 | [0766-toeplitz-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0817-linked-list-components](https://github.com/sarthakpdt/Leetcode/tree/master/0817-linked-list-components) |
+| [0835-image-overlap](https://github.com/sarthakpdt/Leetcode/tree/master/0835-image-overlap) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sarthakpdt/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0867-transpose-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/sarthakpdt/Leetcode/tree/master/0874-walking-robot-simulation) |
@@ -1369,6 +1370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/sarthakpdt/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0766-toeplitz-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/0766-toeplitz-matrix) |
+| [0835-image-overlap](https://github.com/sarthakpdt/Leetcode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/sarthakpdt/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
