@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sarthakpdt/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0229-majority-element-ii) |
 | [0396-rotate-function](https://github.com/sarthakpdt/Leetcode/tree/master/0396-rotate-function) |
+| [0413-arithmetic-slices](https://github.com/sarthakpdt/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/sarthakpdt/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sarthakpdt/Leetcode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/sarthakpdt/Leetcode/tree/master/0486-predict-the-winner) |
@@ -847,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sarthakpdt/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sarthakpdt/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0396-rotate-function](https://github.com/sarthakpdt/Leetcode/tree/master/0396-rotate-function) |
+| [0413-arithmetic-slices](https://github.com/sarthakpdt/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/sarthakpdt/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/sarthakpdt/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sarthakpdt/Leetcode/tree/master/0509-fibonacci-number) |
@@ -1261,6 +1263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthakpdt/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sarthakpdt/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0413-arithmetic-slices](https://github.com/sarthakpdt/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/sarthakpdt/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/sarthakpdt/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sarthakpdt/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
