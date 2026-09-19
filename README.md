@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sarthakpdt/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sarthakpdt/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sarthakpdt/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3477-fruits-into-baskets-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/sarthakpdt/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/sarthakpdt/Leetcode/tree/master/1622-fancy-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sarthakpdt/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2276-count-integers-in-intervals](https://github.com/sarthakpdt/Leetcode/tree/master/2276-count-integers-in-intervals) |
+| [3477-fruits-into-baskets-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sarthakpdt/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1015,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sarthakpdt/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/sarthakpdt/Leetcode/tree/master/3174-clear-digits) |
 | [3379-transformed-array](https://github.com/sarthakpdt/Leetcode/tree/master/3379-transformed-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarthakpdt/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/sarthakpdt/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
@@ -1287,6 +1290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/sarthakpdt/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sarthakpdt/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sarthakpdt/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3477-fruits-into-baskets-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3488-closest-equal-element-queries](https://github.com/sarthakpdt/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sarthakpdt/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -1410,6 +1414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sarthakpdt/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sarthakpdt/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2276-count-integers-in-intervals](https://github.com/sarthakpdt/Leetcode/tree/master/2276-count-integers-in-intervals) |
+| [3477-fruits-into-baskets-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarthakpdt/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/sarthakpdt/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
