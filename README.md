@@ -748,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sarthakpdt/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/sarthakpdt/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2000-reverse-prefix-of-word](https://github.com/sarthakpdt/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/sarthakpdt/Leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sarthakpdt/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sarthakpdt/Leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2211-count-collisions-on-a-road](https://github.com/sarthakpdt/Leetcode/tree/master/2211-count-collisions-on-a-road) |
