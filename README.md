@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthakpdt/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sarthakpdt/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sarthakpdt/Leetcode/tree/master/0189-rotate-array) |
+| [0212-word-search-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0212-word-search-ii) |
 | [0229-majority-element-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0229-majority-element-ii) |
 | [0396-rotate-function](https://github.com/sarthakpdt/Leetcode/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/sarthakpdt/Leetcode/tree/master/0413-arithmetic-slices) |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/sarthakpdt/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/sarthakpdt/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/sarthakpdt/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0212-word-search-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/sarthakpdt/Leetcode/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/sarthakpdt/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0385-mini-parser](https://github.com/sarthakpdt/Leetcode/tree/master/0385-mini-parser) |
@@ -1319,6 +1321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0212-word-search-ii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sarthakpdt/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sarthakpdt/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/sarthakpdt/Leetcode/tree/master/3093-longest-common-suffix-queries) |
@@ -1396,6 +1399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sarthakpdt/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/sarthakpdt/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0212-word-search-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0212-word-search-ii) |
 | [0766-toeplitz-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/sarthakpdt/Leetcode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/0867-transpose-matrix) |
@@ -1477,6 +1481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/sarthakpdt/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sarthakpdt/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0090-subsets-ii) |
+| [0212-word-search-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/sarthakpdt/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sarthakpdt/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/sarthakpdt/Leetcode/tree/master/1980-find-unique-binary-string) |
