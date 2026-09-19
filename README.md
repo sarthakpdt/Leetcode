@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/sarthakpdt/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/sarthakpdt/Leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/sarthakpdt/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3933-largest-local-values-in-a-matrix-ii) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/sarthakpdt/Leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Linked List
 |  |
 | ------- |
@@ -908,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sarthakpdt/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/sarthakpdt/Leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Sorting
 |  |
 | ------- |
@@ -1271,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sarthakpdt/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sarthakpdt/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/sarthakpdt/Leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Queue
 |  |
 | ------- |
@@ -1282,6 +1286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sarthakpdt/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sarthakpdt/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/sarthakpdt/Leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/sarthakpdt/Leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1302,6 +1307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarthakpdt/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sarthakpdt/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/sarthakpdt/Leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/sarthakpdt/Leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1309,6 +1315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/sarthakpdt/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sarthakpdt/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/sarthakpdt/Leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/sarthakpdt/Leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Binary Search Tree
 |  |
 | ------- |
