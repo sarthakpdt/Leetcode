@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1598-crawler-log-folder](https://github.com/sarthakpdt/Leetcode/tree/master/1598-crawler-log-folder) |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/sarthakpdt/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/sarthakpdt/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sarthakpdt/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sarthakpdt/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -830,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/sarthakpdt/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1537-get-the-maximum-score](https://github.com/sarthakpdt/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sarthakpdt/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/sarthakpdt/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/sarthakpdt/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarthakpdt/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -1466,6 +1468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/sarthakpdt/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarthakpdt/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1861-rotating-the-box](https://github.com/sarthakpdt/Leetcode/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1709,4 +1712,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0858-mirror-reflection](https://github.com/sarthakpdt/Leetcode/tree/master/0858-mirror-reflection) |
+## Flow Network
+|  |
+| ------- |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/sarthakpdt/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->
