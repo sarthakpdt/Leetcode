@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sarthakpdt/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/sarthakpdt/Leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3620-network-recovery-pathways](https://github.com/sarthakpdt/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3623-count-number-of-trapezoids-i](https://github.com/sarthakpdt/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sarthakpdt/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sarthakpdt/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sarthakpdt/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sarthakpdt/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3623-count-number-of-trapezoids-i](https://github.com/sarthakpdt/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sarthakpdt/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sarthakpdt/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sarthakpdt/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/sarthakpdt/Leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sarthakpdt/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3623-count-number-of-trapezoids-i](https://github.com/sarthakpdt/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sarthakpdt/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sarthakpdt/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/sarthakpdt/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -1545,6 +1548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-mirror-reflection](https://github.com/sarthakpdt/Leetcode/tree/master/0858-mirror-reflection) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sarthakpdt/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sarthakpdt/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3623-count-number-of-trapezoids-i](https://github.com/sarthakpdt/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Backtracking
 |  |
 | ------- |
