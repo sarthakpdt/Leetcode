@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/sarthakpdt/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sarthakpdt/Leetcode/tree/master/0169-majority-element) |
+| [0372-super-pow](https://github.com/sarthakpdt/Leetcode/tree/master/0372-super-pow) |
 | [0654-maximum-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0761-special-binary-string](https://github.com/sarthakpdt/Leetcode/tree/master/0761-special-binary-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sarthakpdt/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/sarthakpdt/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/sarthakpdt/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sarthakpdt/Leetcode/tree/master/0258-add-digits) |
+| [0372-super-pow](https://github.com/sarthakpdt/Leetcode/tree/master/0372-super-pow) |
 | [0396-rotate-function](https://github.com/sarthakpdt/Leetcode/tree/master/0396-rotate-function) |
 | [0445-add-two-numbers-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/sarthakpdt/Leetcode/tree/master/0486-predict-the-winner) |
@@ -1748,4 +1750,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/sarthakpdt/Leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/sarthakpdt/Leetcode/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/sarthakpdt/Leetcode/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
