@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2865-beautiful-towers-i](https://github.com/sarthakpdt/Leetcode/tree/master/2865-beautiful-towers-i) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/sarthakpdt/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2906-construct-product-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/2906-construct-product-matrix) |
+| [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/sarthakpdt/Leetcode/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sarthakpdt/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sarthakpdt/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/sarthakpdt/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/sarthakpdt/Leetcode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sarthakpdt/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sarthakpdt/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/sarthakpdt/Leetcode/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/sarthakpdt/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarthakpdt/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthakpdt/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sarthakpdt/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sarthakpdt/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/sarthakpdt/Leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/sarthakpdt/Leetcode/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sarthakpdt/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sarthakpdt/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
