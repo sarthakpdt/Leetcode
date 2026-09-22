@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sarthakpdt/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/sarthakpdt/Leetcode/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/sarthakpdt/Leetcode/tree/master/0836-rectangle-overlap) |
+| [0858-mirror-reflection](https://github.com/sarthakpdt/Leetcode/tree/master/0858-mirror-reflection) |
 | [0877-stone-game](https://github.com/sarthakpdt/Leetcode/tree/master/0877-stone-game) |
 | [0970-powerful-integers](https://github.com/sarthakpdt/Leetcode/tree/master/0970-powerful-integers) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
@@ -1494,6 +1495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sarthakpdt/Leetcode/tree/master/0258-add-digits) |
+| [0858-mirror-reflection](https://github.com/sarthakpdt/Leetcode/tree/master/0858-mirror-reflection) |
 | [1622-fancy-sequence](https://github.com/sarthakpdt/Leetcode/tree/master/1622-fancy-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sarthakpdt/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -1527,6 +1529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sarthakpdt/Leetcode/tree/master/0836-rectangle-overlap) |
+| [0858-mirror-reflection](https://github.com/sarthakpdt/Leetcode/tree/master/0858-mirror-reflection) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sarthakpdt/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sarthakpdt/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Backtracking
@@ -1698,4 +1701,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/sarthakpdt/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
+## Least Common Multiple
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/sarthakpdt/Leetcode/tree/master/0858-mirror-reflection) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/sarthakpdt/Leetcode/tree/master/0858-mirror-reflection) |
 <!---LeetCode Topics End-->
