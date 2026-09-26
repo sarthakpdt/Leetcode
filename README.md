@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sarthakpdt/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1774-closest-dessert-cost](https://github.com/sarthakpdt/Leetcode/tree/master/1774-closest-dessert-cost) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/sarthakpdt/Leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sarthakpdt/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/sarthakpdt/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/sarthakpdt/Leetcode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sarthakpdt/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sarthakpdt/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarthakpdt/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sarthakpdt/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sarthakpdt/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1980-find-unique-binary-string](https://github.com/sarthakpdt/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sarthakpdt/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sarthakpdt/Leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -794,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sarthakpdt/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/sarthakpdt/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/sarthakpdt/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sarthakpdt/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/sarthakpdt/Leetcode/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1871-jump-game-vii](https://github.com/sarthakpdt/Leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sarthakpdt/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
