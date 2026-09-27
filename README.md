@@ -600,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sarthakpdt/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthakpdt/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/sarthakpdt/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sarthakpdt/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sarthakpdt/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sarthakpdt/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/sarthakpdt/Leetcode/tree/master/1544-make-the-string-great) |
@@ -777,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthakpdt/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/sarthakpdt/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/sarthakpdt/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sarthakpdt/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1316-distinct-echo-substrings](https://github.com/sarthakpdt/Leetcode/tree/master/1316-distinct-echo-substrings) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sarthakpdt/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sarthakpdt/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -1716,6 +1718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/sarthakpdt/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sarthakpdt/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sarthakpdt/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sarthakpdt/Leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Bitmask
