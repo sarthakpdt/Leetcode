@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/sarthakpdt/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sarthakpdt/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/sarthakpdt/Leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sarthakpdt/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sarthakpdt/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sarthakpdt/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/sarthakpdt/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sarthakpdt/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/sarthakpdt/Leetcode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sarthakpdt/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sarthakpdt/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2549-count-distinct-numbers-on-board](https://github.com/sarthakpdt/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -1640,6 +1642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-mirror-reflection](https://github.com/sarthakpdt/Leetcode/tree/master/0858-mirror-reflection) |
 | [1622-fancy-sequence](https://github.com/sarthakpdt/Leetcode/tree/master/1622-fancy-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sarthakpdt/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sarthakpdt/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sarthakpdt/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sarthakpdt/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
