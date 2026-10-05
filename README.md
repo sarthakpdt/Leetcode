@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sarthakpdt/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2751-robot-collisions](https://github.com/sarthakpdt/Leetcode/tree/master/2751-robot-collisions) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/sarthakpdt/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sarthakpdt/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2865-beautiful-towers-i](https://github.com/sarthakpdt/Leetcode/tree/master/2865-beautiful-towers-i) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/sarthakpdt/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
@@ -1346,6 +1347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/sarthakpdt/Leetcode/tree/master/1291-sequential-digits) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/sarthakpdt/Leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sarthakpdt/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sarthakpdt/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sarthakpdt/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
