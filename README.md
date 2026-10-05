@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sarthakpdt/Leetcode/tree/master/0189-rotate-array) |
 | [0212-word-search-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0212-word-search-ii) |
 | [0229-majority-element-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0229-majority-element-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/sarthakpdt/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/sarthakpdt/Leetcode/tree/master/0396-rotate-function) |
 | [0406-queue-reconstruction-by-height](https://github.com/sarthakpdt/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0413-arithmetic-slices](https://github.com/sarthakpdt/Leetcode/tree/master/0413-arithmetic-slices) |
@@ -987,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sarthakpdt/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sarthakpdt/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0140-word-break-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/sarthakpdt/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/sarthakpdt/Leetcode/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/sarthakpdt/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/sarthakpdt/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -1412,6 +1414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sarthakpdt/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthakpdt/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/sarthakpdt/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/sarthakpdt/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/sarthakpdt/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/sarthakpdt/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sarthakpdt/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -1897,4 +1900,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/sarthakpdt/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/sarthakpdt/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
