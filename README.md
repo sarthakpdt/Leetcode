@@ -859,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sarthakpdt/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/sarthakpdt/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/sarthakpdt/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/sarthakpdt/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/sarthakpdt/Leetcode/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sarthakpdt/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sarthakpdt/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -928,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sarthakpdt/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sarthakpdt/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/sarthakpdt/Leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/sarthakpdt/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/sarthakpdt/Leetcode/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sarthakpdt/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1241,6 +1243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sarthakpdt/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sarthakpdt/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/sarthakpdt/Leetcode/tree/master/2540-minimum-common-value) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/sarthakpdt/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/sarthakpdt/Leetcode/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/sarthakpdt/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/sarthakpdt/Leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
