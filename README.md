@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/sarthakpdt/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/sarthakpdt/Leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
+| [4035-maximum-valid-split-positions-i](https://github.com/sarthakpdt/Leetcode/tree/master/4035-maximum-valid-split-positions-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/sarthakpdt/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4035-maximum-valid-split-positions-i](https://github.com/sarthakpdt/Leetcode/tree/master/4035-maximum-valid-split-positions-i) |
 ## Recursion
 |  |
 | ------- |
@@ -1410,6 +1412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sarthakpdt/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sarthakpdt/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3804-number-of-centered-subarrays](https://github.com/sarthakpdt/Leetcode/tree/master/3804-number-of-centered-subarrays) |
+| [4035-maximum-valid-split-positions-i](https://github.com/sarthakpdt/Leetcode/tree/master/4035-maximum-valid-split-positions-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -1666,6 +1669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sarthakpdt/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sarthakpdt/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sarthakpdt/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4035-maximum-valid-split-positions-i](https://github.com/sarthakpdt/Leetcode/tree/master/4035-maximum-valid-split-positions-i) |
 ## String Matching
 |  |
 | ------- |
