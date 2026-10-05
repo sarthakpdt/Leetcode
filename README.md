@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sarthakpdt/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/sarthakpdt/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sarthakpdt/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/sarthakpdt/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sarthakpdt/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -982,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/sarthakpdt/Leetcode/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/sarthakpdt/Leetcode/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sarthakpdt/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/sarthakpdt/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sarthakpdt/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/sarthakpdt/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2370-longest-ideal-subsequence](https://github.com/sarthakpdt/Leetcode/tree/master/2370-longest-ideal-subsequence) |
@@ -1647,6 +1649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/sarthakpdt/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/sarthakpdt/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sarthakpdt/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -1833,4 +1836,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sarthakpdt/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/sarthakpdt/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 <!---LeetCode Topics End-->
