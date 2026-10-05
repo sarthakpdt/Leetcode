@@ -704,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sarthakpdt/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sarthakpdt/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sarthakpdt/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
@@ -1063,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/sarthakpdt/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/sarthakpdt/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/sarthakpdt/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2751-robot-collisions](https://github.com/sarthakpdt/Leetcode/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sarthakpdt/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sarthakpdt/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -1349,6 +1351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sarthakpdt/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sarthakpdt/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Enumeration
 |  |
 | ------- |
@@ -1510,6 +1513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/sarthakpdt/Leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/sarthakpdt/Leetcode/tree/master/3310-remove-methods-from-project) |
