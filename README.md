@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/sarthakpdt/Leetcode/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sarthakpdt/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/sarthakpdt/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1396-design-underground-system](https://github.com/sarthakpdt/Leetcode/tree/master/1396-design-underground-system) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sarthakpdt/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarthakpdt/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sarthakpdt/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1316-distinct-echo-substrings](https://github.com/sarthakpdt/Leetcode/tree/master/1316-distinct-echo-substrings) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sarthakpdt/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sarthakpdt/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1396-design-underground-system](https://github.com/sarthakpdt/Leetcode/tree/master/1396-design-underground-system) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sarthakpdt/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sarthakpdt/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sarthakpdt/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -1510,6 +1512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/sarthakpdt/Leetcode/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/sarthakpdt/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/sarthakpdt/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [1396-design-underground-system](https://github.com/sarthakpdt/Leetcode/tree/master/1396-design-underground-system) |
 | [1622-fancy-sequence](https://github.com/sarthakpdt/Leetcode/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/sarthakpdt/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2276-count-integers-in-intervals](https://github.com/sarthakpdt/Leetcode/tree/master/2276-count-integers-in-intervals) |
