@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sarthakpdt/Leetcode/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sarthakpdt/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1207-unique-number-of-occurrences](https://github.com/sarthakpdt/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sarthakpdt/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sarthakpdt/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0970-powerful-integers](https://github.com/sarthakpdt/Leetcode/tree/master/0970-powerful-integers) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1140-stone-game-ii](https://github.com/sarthakpdt/Leetcode/tree/master/1140-stone-game-ii) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sarthakpdt/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sarthakpdt/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sarthakpdt/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -1078,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/sarthakpdt/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0946-validate-stack-sequences](https://github.com/sarthakpdt/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sarthakpdt/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sarthakpdt/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
