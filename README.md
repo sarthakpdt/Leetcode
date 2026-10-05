@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/sarthakpdt/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/sarthakpdt/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/sarthakpdt/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/sarthakpdt/Leetcode/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sarthakpdt/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/sarthakpdt/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1306-jump-game-iii](https://github.com/sarthakpdt/Leetcode/tree/master/1306-jump-game-iii) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/sarthakpdt/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -1363,6 +1366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/sarthakpdt/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
@@ -1528,6 +1532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/sarthakpdt/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1306-jump-game-iii](https://github.com/sarthakpdt/Leetcode/tree/master/1306-jump-game-iii) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/sarthakpdt/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1345-jump-game-iv](https://github.com/sarthakpdt/Leetcode/tree/master/1345-jump-game-iv) |
@@ -1568,6 +1573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/sarthakpdt/Leetcode/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/sarthakpdt/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/sarthakpdt/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1396-design-underground-system](https://github.com/sarthakpdt/Leetcode/tree/master/1396-design-underground-system) |
 | [1622-fancy-sequence](https://github.com/sarthakpdt/Leetcode/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/sarthakpdt/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
