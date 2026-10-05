@@ -511,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sarthakpdt/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sarthakpdt/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sarthakpdt/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/sarthakpdt/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sarthakpdt/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sarthakpdt/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sarthakpdt/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1104,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sarthakpdt/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sarthakpdt/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/sarthakpdt/Leetcode/tree/master/3174-clear-digits) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/sarthakpdt/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3379-transformed-array](https://github.com/sarthakpdt/Leetcode/tree/master/3379-transformed-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/sarthakpdt/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -1705,6 +1707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/sarthakpdt/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sarthakpdt/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sarthakpdt/Leetcode/tree/master/2029-stone-game-ix) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/sarthakpdt/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## DP on Trees
 |  |
 | ------- |
