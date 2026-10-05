@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sarthakpdt/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/sarthakpdt/Leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sarthakpdt/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/sarthakpdt/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sarthakpdt/Leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sarthakpdt/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/sarthakpdt/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/sarthakpdt/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sarthakpdt/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/sarthakpdt/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sarthakpdt/Leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2370-longest-ideal-subsequence](https://github.com/sarthakpdt/Leetcode/tree/master/2370-longest-ideal-subsequence) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/sarthakpdt/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -848,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sarthakpdt/Leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2211-count-collisions-on-a-road](https://github.com/sarthakpdt/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sarthakpdt/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/sarthakpdt/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2370-longest-ideal-subsequence](https://github.com/sarthakpdt/Leetcode/tree/master/2370-longest-ideal-subsequence) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sarthakpdt/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sarthakpdt/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -1483,6 +1486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0212-word-search-ii) |
 | [1316-distinct-echo-substrings](https://github.com/sarthakpdt/Leetcode/tree/master/1316-distinct-echo-substrings) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/sarthakpdt/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sarthakpdt/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sarthakpdt/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/sarthakpdt/Leetcode/tree/master/3093-longest-common-suffix-queries) |
@@ -1552,6 +1556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-design-underground-system](https://github.com/sarthakpdt/Leetcode/tree/master/1396-design-underground-system) |
 | [1622-fancy-sequence](https://github.com/sarthakpdt/Leetcode/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/sarthakpdt/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/sarthakpdt/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2276-count-integers-in-intervals](https://github.com/sarthakpdt/Leetcode/tree/master/2276-count-integers-in-intervals) |
 ## Hash Function
 |  |
