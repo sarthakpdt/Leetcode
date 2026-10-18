@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/sarthakpdt/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [3909-compare-sums-of-bitonic-parts](https://github.com/sarthakpdt/Leetcode/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/sarthakpdt/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/sarthakpdt/Leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
