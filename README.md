@@ -936,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sarthakpdt/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sarthakpdt/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/sarthakpdt/Leetcode/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 | [3838-weighted-word-mapping](https://github.com/sarthakpdt/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sarthakpdt/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
@@ -995,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sarthakpdt/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sarthakpdt/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sarthakpdt/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/sarthakpdt/Leetcode/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 ## Monotonic Stack
 |  |
 | ------- |
