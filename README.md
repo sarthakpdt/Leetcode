@@ -1247,6 +1247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1795-rearrange-products-table](https://github.com/sarthakpdt/Leetcode/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/sarthakpdt/Leetcode/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/sarthakpdt/Leetcode/tree/master/1890-the-latest-login-in-2020) |
+| [1907-count-salary-categories](https://github.com/sarthakpdt/Leetcode/tree/master/1907-count-salary-categories) |
 | [1965-employees-with-missing-information](https://github.com/sarthakpdt/Leetcode/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/sarthakpdt/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sarthakpdt/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
