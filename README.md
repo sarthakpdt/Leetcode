@@ -543,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sarthakpdt/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/sarthakpdt/Leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/sarthakpdt/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/sarthakpdt/Leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1840-maximum-building-height](https://github.com/sarthakpdt/Leetcode/tree/master/1840-maximum-building-height) |
 | [1872-stone-game-viii](https://github.com/sarthakpdt/Leetcode/tree/master/1872-stone-game-viii) |
@@ -966,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1702-maximum-binary-string-after-change](https://github.com/sarthakpdt/Leetcode/tree/master/1702-maximum-binary-string-after-change) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarthakpdt/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1754-largest-merge-of-two-strings](https://github.com/sarthakpdt/Leetcode/tree/master/1754-largest-merge-of-two-strings) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/sarthakpdt/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/sarthakpdt/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sarthakpdt/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/sarthakpdt/Leetcode/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
@@ -1484,6 +1486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sarthakpdt/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/sarthakpdt/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarthakpdt/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/sarthakpdt/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarthakpdt/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/sarthakpdt/Leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sarthakpdt/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
