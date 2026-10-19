@@ -568,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/sarthakpdt/Leetcode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sarthakpdt/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sarthakpdt/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/sarthakpdt/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2549-count-distinct-numbers-on-board](https://github.com/sarthakpdt/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -1225,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/sarthakpdt/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2211-count-collisions-on-a-road](https://github.com/sarthakpdt/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/sarthakpdt/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/sarthakpdt/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2549-count-distinct-numbers-on-board](https://github.com/sarthakpdt/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sarthakpdt/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/sarthakpdt/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -1770,6 +1772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/sarthakpdt/Leetcode/tree/master/1622-fancy-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sarthakpdt/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sarthakpdt/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/sarthakpdt/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sarthakpdt/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sarthakpdt/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -2051,4 +2054,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/sarthakpdt/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Prime Factorization
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/sarthakpdt/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Primality Test
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/sarthakpdt/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Sieve Theory
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/sarthakpdt/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/sarthakpdt/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 <!---LeetCode Topics End-->
