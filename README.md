@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/sarthakpdt/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sarthakpdt/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1487-making-file-names-unique](https://github.com/sarthakpdt/Leetcode/tree/master/1487-making-file-names-unique) |
+| [1504-count-submatrices-with-all-ones](https://github.com/sarthakpdt/Leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1537-get-the-maximum-score](https://github.com/sarthakpdt/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [1539-kth-missing-positive-number](https://github.com/sarthakpdt/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/sarthakpdt/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sarthakpdt/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sarthakpdt/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1504-count-submatrices-with-all-ones](https://github.com/sarthakpdt/Leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sarthakpdt/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/sarthakpdt/Leetcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/sarthakpdt/Leetcode/tree/master/1598-crawler-log-folder) |
@@ -1033,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/sarthakpdt/Leetcode/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthakpdt/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sarthakpdt/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1504-count-submatrices-with-all-ones](https://github.com/sarthakpdt/Leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/sarthakpdt/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/sarthakpdt/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -1075,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sarthakpdt/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/sarthakpdt/Leetcode/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/sarthakpdt/Leetcode/tree/master/1406-stone-game-iii) |
+| [1504-count-submatrices-with-all-ones](https://github.com/sarthakpdt/Leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1510-stone-game-iv](https://github.com/sarthakpdt/Leetcode/tree/master/1510-stone-game-iv) |
 | [1537-get-the-maximum-score](https://github.com/sarthakpdt/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [1563-stone-game-v](https://github.com/sarthakpdt/Leetcode/tree/master/1563-stone-game-v) |
@@ -1714,6 +1718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/sarthakpdt/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1504-count-submatrices-with-all-ones](https://github.com/sarthakpdt/Leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
