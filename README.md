@@ -578,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sarthakpdt/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sarthakpdt/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3021-alice-and-bob-playing-flower-game](https://github.com/sarthakpdt/Leetcode/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sarthakpdt/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/sarthakpdt/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sarthakpdt/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
