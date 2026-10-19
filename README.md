@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/sarthakpdt/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sarthakpdt/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sarthakpdt/Leetcode/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/sarthakpdt/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/sarthakpdt/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarthakpdt/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -854,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/sarthakpdt/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/sarthakpdt/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0140-word-break-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0140-word-break-ii) |
+| [0187-repeated-dna-sequences](https://github.com/sarthakpdt/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/sarthakpdt/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0212-word-search-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/sarthakpdt/Leetcode/tree/master/0224-basic-calculator) |
@@ -1371,6 +1373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sarthakpdt/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sarthakpdt/Leetcode/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/sarthakpdt/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/sarthakpdt/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/sarthakpdt/Leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/sarthakpdt/Leetcode/tree/master/0389-find-the-difference) |
@@ -1571,6 +1574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthakpdt/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sarthakpdt/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/sarthakpdt/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0413-arithmetic-slices](https://github.com/sarthakpdt/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/sarthakpdt/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/sarthakpdt/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -1706,6 +1710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/sarthakpdt/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0706-design-hashmap](https://github.com/sarthakpdt/Leetcode/tree/master/0706-design-hashmap) |
 | [1316-distinct-echo-substrings](https://github.com/sarthakpdt/Leetcode/tree/master/1316-distinct-echo-substrings) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sarthakpdt/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -1838,6 +1843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/sarthakpdt/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [1316-distinct-echo-substrings](https://github.com/sarthakpdt/Leetcode/tree/master/1316-distinct-echo-substrings) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sarthakpdt/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/sarthakpdt/Leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
@@ -2037,4 +2043,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/sarthakpdt/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/sarthakpdt/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/sarthakpdt/Leetcode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
