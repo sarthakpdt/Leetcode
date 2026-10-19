@@ -1833,6 +1833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1615-maximal-network-rank](https://github.com/sarthakpdt/Leetcode/tree/master/1615-maximal-network-rank) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/sarthakpdt/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/sarthakpdt/Leetcode/tree/master/3310-remove-methods-from-project) |
