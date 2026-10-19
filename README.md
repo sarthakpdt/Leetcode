@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarthakpdt/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sarthakpdt/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1774-closest-dessert-cost](https://github.com/sarthakpdt/Leetcode/tree/master/1774-closest-dessert-cost) |
+| [1801-number-of-orders-in-the-backlog](https://github.com/sarthakpdt/Leetcode/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/sarthakpdt/Leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sarthakpdt/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1813-sentence-similarity-iii](https://github.com/sarthakpdt/Leetcode/tree/master/1813-sentence-similarity-iii) |
@@ -1209,6 +1210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sarthakpdt/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sarthakpdt/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1801-number-of-orders-in-the-backlog](https://github.com/sarthakpdt/Leetcode/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/sarthakpdt/Leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/sarthakpdt/Leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1914-cyclically-rotating-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
@@ -1403,6 +1405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sarthakpdt/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sarthakpdt/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sarthakpdt/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1801-number-of-orders-in-the-backlog](https://github.com/sarthakpdt/Leetcode/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1882-process-tasks-using-servers](https://github.com/sarthakpdt/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sarthakpdt/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
