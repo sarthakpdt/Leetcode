@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sarthakpdt/Leetcode/tree/master/0682-baseball-game) |
 | [0706-design-hashmap](https://github.com/sarthakpdt/Leetcode/tree/master/0706-design-hashmap) |
 | [0766-toeplitz-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/0766-toeplitz-matrix) |
+| [0792-number-of-matching-subsequences](https://github.com/sarthakpdt/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0817-linked-list-components](https://github.com/sarthakpdt/Leetcode/tree/master/0817-linked-list-components) |
 | [0823-binary-trees-with-factors](https://github.com/sarthakpdt/Leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0835-image-overlap](https://github.com/sarthakpdt/Leetcode/tree/master/0835-image-overlap) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sarthakpdt/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0706-design-hashmap](https://github.com/sarthakpdt/Leetcode/tree/master/0706-design-hashmap) |
 | [0767-reorganize-string](https://github.com/sarthakpdt/Leetcode/tree/master/0767-reorganize-string) |
+| [0792-number-of-matching-subsequences](https://github.com/sarthakpdt/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0817-linked-list-components](https://github.com/sarthakpdt/Leetcode/tree/master/0817-linked-list-components) |
 | [0823-binary-trees-with-factors](https://github.com/sarthakpdt/Leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -854,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/sarthakpdt/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0761-special-binary-string](https://github.com/sarthakpdt/Leetcode/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/sarthakpdt/Leetcode/tree/master/0767-reorganize-string) |
+| [0792-number-of-matching-subsequences](https://github.com/sarthakpdt/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/sarthakpdt/Leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/sarthakpdt/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/sarthakpdt/Leetcode/tree/master/0856-score-of-parentheses) |
@@ -1041,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/sarthakpdt/Leetcode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/sarthakpdt/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/sarthakpdt/Leetcode/tree/master/0788-rotated-digits) |
+| [0792-number-of-matching-subsequences](https://github.com/sarthakpdt/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0823-binary-trees-with-factors](https://github.com/sarthakpdt/Leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/sarthakpdt/Leetcode/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0877-stone-game](https://github.com/sarthakpdt/Leetcode/tree/master/0877-stone-game) |
@@ -1113,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/sarthakpdt/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0761-special-binary-string](https://github.com/sarthakpdt/Leetcode/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/sarthakpdt/Leetcode/tree/master/0767-reorganize-string) |
+| [0792-number-of-matching-subsequences](https://github.com/sarthakpdt/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0823-binary-trees-with-factors](https://github.com/sarthakpdt/Leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0853-car-fleet](https://github.com/sarthakpdt/Leetcode/tree/master/0853-car-fleet) |
 | [0922-sort-array-by-parity-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -1480,6 +1485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/sarthakpdt/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/sarthakpdt/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/sarthakpdt/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0792-number-of-matching-subsequences](https://github.com/sarthakpdt/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sarthakpdt/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/sarthakpdt/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sarthakpdt/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -1583,6 +1589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0140-word-break-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0212-word-search-ii) |
+| [0792-number-of-matching-subsequences](https://github.com/sarthakpdt/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1316-distinct-echo-substrings](https://github.com/sarthakpdt/Leetcode/tree/master/1316-distinct-echo-substrings) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/sarthakpdt/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sarthakpdt/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
