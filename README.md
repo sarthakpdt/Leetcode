@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-find-the-shortest-superstring](https://github.com/sarthakpdt/Leetcode/tree/master/0943-find-the-shortest-superstring) |
 | [0946-validate-stack-sequences](https://github.com/sarthakpdt/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1125-smallest-sufficient-team](https://github.com/sarthakpdt/Leetcode/tree/master/1125-smallest-sufficient-team) |
 | [1140-stone-game-ii](https://github.com/sarthakpdt/Leetcode/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sarthakpdt/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/sarthakpdt/Leetcode/tree/master/1191-k-concatenation-maximum-sum) |
@@ -1079,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/sarthakpdt/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/sarthakpdt/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0943-find-the-shortest-superstring](https://github.com/sarthakpdt/Leetcode/tree/master/0943-find-the-shortest-superstring) |
+| [1125-smallest-sufficient-team](https://github.com/sarthakpdt/Leetcode/tree/master/1125-smallest-sufficient-team) |
 | [1140-stone-game-ii](https://github.com/sarthakpdt/Leetcode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/sarthakpdt/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sarthakpdt/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -1386,6 +1388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/sarthakpdt/Leetcode/tree/master/0868-binary-gap) |
 | [0943-find-the-shortest-superstring](https://github.com/sarthakpdt/Leetcode/tree/master/0943-find-the-shortest-superstring) |
 | [1009-complement-of-base-10-integer](https://github.com/sarthakpdt/Leetcode/tree/master/1009-complement-of-base-10-integer) |
+| [1125-smallest-sufficient-team](https://github.com/sarthakpdt/Leetcode/tree/master/1125-smallest-sufficient-team) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sarthakpdt/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sarthakpdt/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/sarthakpdt/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -1978,6 +1981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0943-find-the-shortest-superstring](https://github.com/sarthakpdt/Leetcode/tree/master/0943-find-the-shortest-superstring) |
+| [1125-smallest-sufficient-team](https://github.com/sarthakpdt/Leetcode/tree/master/1125-smallest-sufficient-team) |
 ## Hamiltonian Path
 |  |
 | ------- |
