@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/sarthakpdt/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/sarthakpdt/Leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/sarthakpdt/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4035-maximum-valid-split-positions-i](https://github.com/sarthakpdt/Leetcode/tree/master/4035-maximum-valid-split-positions-i) |
 ## Hash Table
 |  |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sarthakpdt/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3804-number-of-centered-subarrays](https://github.com/sarthakpdt/Leetcode/tree/master/3804-number-of-centered-subarrays) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/sarthakpdt/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/sarthakpdt/Leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/sarthakpdt/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Linked List
 |  |
 | ------- |
@@ -1498,6 +1501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sarthakpdt/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sarthakpdt/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3804-number-of-centered-subarrays](https://github.com/sarthakpdt/Leetcode/tree/master/3804-number-of-centered-subarrays) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/sarthakpdt/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4035-maximum-valid-split-positions-i](https://github.com/sarthakpdt/Leetcode/tree/master/4035-maximum-valid-split-positions-i) |
 ## Binary Search
 |  |
@@ -1586,6 +1590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/sarthakpdt/Leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/sarthakpdt/Leetcode/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/sarthakpdt/Leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/sarthakpdt/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Monotonic Queue
 |  |
 | ------- |
