@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sarthakpdt/Leetcode/tree/master/0682-baseball-game) |
 | [0706-design-hashmap](https://github.com/sarthakpdt/Leetcode/tree/master/0706-design-hashmap) |
 | [0766-toeplitz-matrix](https://github.com/sarthakpdt/Leetcode/tree/master/0766-toeplitz-matrix) |
+| [0769-max-chunks-to-make-sorted](https://github.com/sarthakpdt/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0792-number-of-matching-subsequences](https://github.com/sarthakpdt/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0817-linked-list-components](https://github.com/sarthakpdt/Leetcode/tree/master/0817-linked-list-components) |
 | [0823-binary-trees-with-factors](https://github.com/sarthakpdt/Leetcode/tree/master/0823-binary-trees-with-factors) |
@@ -666,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/sarthakpdt/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/sarthakpdt/Leetcode/tree/master/0682-baseball-game) |
+| [0769-max-chunks-to-make-sorted](https://github.com/sarthakpdt/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0844-backspace-string-compare](https://github.com/sarthakpdt/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/sarthakpdt/Leetcode/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/sarthakpdt/Leetcode/tree/master/0856-score-of-parentheses) |
@@ -960,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/sarthakpdt/Leetcode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/sarthakpdt/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/sarthakpdt/Leetcode/tree/master/0767-reorganize-string) |
+| [0769-max-chunks-to-make-sorted](https://github.com/sarthakpdt/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sarthakpdt/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthakpdt/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sarthakpdt/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -1018,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/sarthakpdt/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sarthakpdt/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0769-max-chunks-to-make-sorted](https://github.com/sarthakpdt/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/sarthakpdt/Leetcode/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/sarthakpdt/Leetcode/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthakpdt/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1122,6 +1126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/sarthakpdt/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0761-special-binary-string](https://github.com/sarthakpdt/Leetcode/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/sarthakpdt/Leetcode/tree/master/0767-reorganize-string) |
+| [0769-max-chunks-to-make-sorted](https://github.com/sarthakpdt/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0792-number-of-matching-subsequences](https://github.com/sarthakpdt/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0823-binary-trees-with-factors](https://github.com/sarthakpdt/Leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0853-car-fleet](https://github.com/sarthakpdt/Leetcode/tree/master/0853-car-fleet) |
