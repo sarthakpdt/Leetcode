@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sarthakpdt/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3886-sum-of-sortable-integers](https://github.com/sarthakpdt/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/sarthakpdt/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/sarthakpdt/Leetcode/tree/master/3909-compare-sums-of-bitonic-parts) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/sarthakpdt/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/sarthakpdt/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/sarthakpdt/Leetcode/tree/master/3932-count-k-th-roots-in-a-range) |
 | [4035-maximum-valid-split-positions-i](https://github.com/sarthakpdt/Leetcode/tree/master/4035-maximum-valid-split-positions-i) |
 ## Recursion
@@ -1204,6 +1206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sarthakpdt/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/sarthakpdt/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sarthakpdt/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/sarthakpdt/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
 |  |
 | ------- |
@@ -1515,6 +1518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sarthakpdt/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sarthakpdt/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3804-number-of-centered-subarrays](https://github.com/sarthakpdt/Leetcode/tree/master/3804-number-of-centered-subarrays) |
+| [3886-sum-of-sortable-integers](https://github.com/sarthakpdt/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/sarthakpdt/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4035-maximum-valid-split-positions-i](https://github.com/sarthakpdt/Leetcode/tree/master/4035-maximum-valid-split-positions-i) |
 ## Binary Search
