@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3909-compare-sums-of-bitonic-parts](https://github.com/sarthakpdt/Leetcode/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/sarthakpdt/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/sarthakpdt/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/sarthakpdt/Leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/sarthakpdt/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4035-maximum-valid-split-positions-i](https://github.com/sarthakpdt/Leetcode/tree/master/4035-maximum-valid-split-positions-i) |
