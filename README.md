@@ -800,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/sarthakpdt/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/sarthakpdt/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
@@ -859,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/sarthakpdt/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/sarthakpdt/Leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1302-deepest-leaves-sum](https://github.com/sarthakpdt/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/sarthakpdt/Leetcode/tree/master/1306-jump-game-iii) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/sarthakpdt/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -1533,6 +1535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/sarthakpdt/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/sarthakpdt/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
@@ -1724,6 +1727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/sarthakpdt/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/sarthakpdt/Leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1302-deepest-leaves-sum](https://github.com/sarthakpdt/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/sarthakpdt/Leetcode/tree/master/1306-jump-game-iii) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/sarthakpdt/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1345-jump-game-iv](https://github.com/sarthakpdt/Leetcode/tree/master/1345-jump-game-iv) |
