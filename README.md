@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sarthakpdt/Leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2370-longest-ideal-subsequence](https://github.com/sarthakpdt/Leetcode/tree/master/2370-longest-ideal-subsequence) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/sarthakpdt/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sarthakpdt/Leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sarthakpdt/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/sarthakpdt/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2540-minimum-common-value](https://github.com/sarthakpdt/Leetcode/tree/master/2540-minimum-common-value) |
@@ -742,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/sarthakpdt/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/sarthakpdt/Leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/sarthakpdt/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sarthakpdt/Leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/sarthakpdt/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2751-robot-collisions](https://github.com/sarthakpdt/Leetcode/tree/master/2751-robot-collisions) |
@@ -979,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-apply-discount-to-prices](https://github.com/sarthakpdt/Leetcode/tree/master/2288-apply-discount-to-prices) |
 | [2370-longest-ideal-subsequence](https://github.com/sarthakpdt/Leetcode/tree/master/2370-longest-ideal-subsequence) |
 | [2409-count-days-spent-together](https://github.com/sarthakpdt/Leetcode/tree/master/2409-count-days-spent-together) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sarthakpdt/Leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sarthakpdt/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sarthakpdt/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sarthakpdt/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -1059,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/sarthakpdt/Leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sarthakpdt/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sarthakpdt/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sarthakpdt/Leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sarthakpdt/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/sarthakpdt/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/sarthakpdt/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
