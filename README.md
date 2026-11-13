@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/sarthakpdt/Leetcode/tree/master/3379-transformed-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sarthakpdt/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sarthakpdt/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sarthakpdt/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/sarthakpdt/Leetcode/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sarthakpdt/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sarthakpdt/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2276-count-integers-in-intervals](https://github.com/sarthakpdt/Leetcode/tree/master/2276-count-integers-in-intervals) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarthakpdt/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sarthakpdt/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sarthakpdt/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3477-fruits-into-baskets-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2865-beautiful-towers-i](https://github.com/sarthakpdt/Leetcode/tree/master/2865-beautiful-towers-i) |
 | [3174-clear-digits](https://github.com/sarthakpdt/Leetcode/tree/master/3174-clear-digits) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sarthakpdt/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3676-count-bowl-subarrays](https://github.com/sarthakpdt/Leetcode/tree/master/3676-count-bowl-subarrays) |
 | [3834-merge-adjacent-equal-elements](https://github.com/sarthakpdt/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Tree
@@ -1094,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2289-steps-to-make-array-non-decreasing](https://github.com/sarthakpdt/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sarthakpdt/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2865-beautiful-towers-i](https://github.com/sarthakpdt/Leetcode/tree/master/2865-beautiful-towers-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sarthakpdt/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3676-count-bowl-subarrays](https://github.com/sarthakpdt/Leetcode/tree/master/3676-count-bowl-subarrays) |
 ## Dynamic Programming
 |  |
@@ -1634,6 +1638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sarthakpdt/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sarthakpdt/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/sarthakpdt/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sarthakpdt/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/sarthakpdt/Leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/sarthakpdt/Leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Sliding Window
@@ -1659,6 +1664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/sarthakpdt/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarthakpdt/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sarthakpdt/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sarthakpdt/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/sarthakpdt/Leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/sarthakpdt/Leetcode/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/sarthakpdt/Leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
@@ -1669,6 +1675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sarthakpdt/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sarthakpdt/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sarthakpdt/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sarthakpdt/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/sarthakpdt/Leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/sarthakpdt/Leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Binary Search Tree
