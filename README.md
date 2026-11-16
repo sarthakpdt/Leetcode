@@ -983,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/sarthakpdt/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sarthakpdt/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/sarthakpdt/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sarthakpdt/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2288-apply-discount-to-prices](https://github.com/sarthakpdt/Leetcode/tree/master/2288-apply-discount-to-prices) |
 | [2370-longest-ideal-subsequence](https://github.com/sarthakpdt/Leetcode/tree/master/2370-longest-ideal-subsequence) |
 | [2409-count-days-spent-together](https://github.com/sarthakpdt/Leetcode/tree/master/2409-count-days-spent-together) |
@@ -1295,6 +1296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/sarthakpdt/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sarthakpdt/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2211-count-collisions-on-a-road](https://github.com/sarthakpdt/Leetcode/tree/master/2211-count-collisions-on-a-road) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sarthakpdt/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/sarthakpdt/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/sarthakpdt/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2549-count-distinct-numbers-on-board](https://github.com/sarthakpdt/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
