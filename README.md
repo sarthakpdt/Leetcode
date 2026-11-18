@@ -998,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sarthakpdt/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sarthakpdt/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sarthakpdt/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sarthakpdt/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/sarthakpdt/Leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sarthakpdt/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
