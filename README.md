@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarthakpdt/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthakpdt/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sarthakpdt/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sarthakpdt/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sarthakpdt/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sarthakpdt/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sarthakpdt/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -1175,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sarthakpdt/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/sarthakpdt/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sarthakpdt/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sarthakpdt/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sarthakpdt/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/sarthakpdt/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
@@ -1258,6 +1260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sarthakpdt/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthakpdt/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sarthakpdt/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3143-maximum-points-inside-the-square](https://github.com/sarthakpdt/Leetcode/tree/master/3143-maximum-points-inside-the-square) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sarthakpdt/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/sarthakpdt/Leetcode/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
