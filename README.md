@@ -986,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/sarthakpdt/Leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sarthakpdt/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sarthakpdt/Leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/sarthakpdt/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2211-count-collisions-on-a-road](https://github.com/sarthakpdt/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sarthakpdt/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/sarthakpdt/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
