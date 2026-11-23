@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/sarthakpdt/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/sarthakpdt/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/sarthakpdt/Leetcode/tree/master/1345-jump-game-iv) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sarthakpdt/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sarthakpdt/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sarthakpdt/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sarthakpdt/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1140-stone-game-ii](https://github.com/sarthakpdt/Leetcode/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sarthakpdt/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1480-running-sum-of-1d-array](https://github.com/sarthakpdt/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sarthakpdt/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sarthakpdt/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/sarthakpdt/Leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sarthakpdt/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sarthakpdt/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/sarthakpdt/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sarthakpdt/Leetcode/tree/master/1510-stone-game-iv) |
@@ -1814,6 +1817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/sarthakpdt/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/sarthakpdt/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/sarthakpdt/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1396-design-underground-system](https://github.com/sarthakpdt/Leetcode/tree/master/1396-design-underground-system) |
 | [1622-fancy-sequence](https://github.com/sarthakpdt/Leetcode/tree/master/1622-fancy-sequence) |
 | [1797-design-authentication-manager](https://github.com/sarthakpdt/Leetcode/tree/master/1797-design-authentication-manager) |
@@ -2067,6 +2071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0901-online-stock-span](https://github.com/sarthakpdt/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/sarthakpdt/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sarthakpdt/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
