@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/sarthakpdt/Leetcode/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3933-largest-local-values-in-a-matrix-ii) |
+| [3934-smallest-unique-subarray](https://github.com/sarthakpdt/Leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/sarthakpdt/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/sarthakpdt/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/sarthakpdt/Leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sarthakpdt/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3804-number-of-centered-subarrays](https://github.com/sarthakpdt/Leetcode/tree/master/3804-number-of-centered-subarrays) |
+| [3934-smallest-unique-subarray](https://github.com/sarthakpdt/Leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/sarthakpdt/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Divide and Conquer
 |  |
@@ -1660,6 +1662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sarthakpdt/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/sarthakpdt/Leetcode/tree/master/3932-count-k-th-roots-in-a-range) |
+| [3934-smallest-unique-subarray](https://github.com/sarthakpdt/Leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/sarthakpdt/Leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Queue
 |  |
@@ -1836,6 +1839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1316-distinct-echo-substrings](https://github.com/sarthakpdt/Leetcode/tree/master/1316-distinct-echo-substrings) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sarthakpdt/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/sarthakpdt/Leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3934-smallest-unique-subarray](https://github.com/sarthakpdt/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -1980,6 +1984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1316-distinct-echo-substrings](https://github.com/sarthakpdt/Leetcode/tree/master/1316-distinct-echo-substrings) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sarthakpdt/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/sarthakpdt/Leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3934-smallest-unique-subarray](https://github.com/sarthakpdt/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Memoization
 |  |
 | ------- |
@@ -2113,6 +2118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1316-distinct-echo-substrings](https://github.com/sarthakpdt/Leetcode/tree/master/1316-distinct-echo-substrings) |
+| [3934-smallest-unique-subarray](https://github.com/sarthakpdt/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Suffix Automaton
 |  |
 | ------- |
