@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3934-smallest-unique-subarray](https://github.com/sarthakpdt/Leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/sarthakpdt/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/sarthakpdt/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/sarthakpdt/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/sarthakpdt/Leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/sarthakpdt/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4035-maximum-valid-split-positions-i](https://github.com/sarthakpdt/Leetcode/tree/master/4035-maximum-valid-split-positions-i) |
@@ -1108,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sarthakpdt/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sarthakpdt/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/sarthakpdt/Leetcode/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/sarthakpdt/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1212,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sarthakpdt/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/sarthakpdt/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sarthakpdt/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/sarthakpdt/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/sarthakpdt/Leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Sorting
 |  |
